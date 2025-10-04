@@ -23,12 +23,12 @@ It demonstrates **Python basics**, **loops**, **input handling**, and **random n
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
-   cd number-guessing-game
+   git clone https://github.com/HimanshuAryaa/NumberGuessingGame.git
+   cd NumberGuessingGame
     ```
 2. Run the Program
     ```bash
-    python guessing_game.py
+    python Number_Guessing.py
     ```
 
 ## 📋 Sample Output
