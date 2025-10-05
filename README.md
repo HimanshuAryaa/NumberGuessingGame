@@ -55,9 +55,9 @@ You guessed higher!
 ## 📂 Project Structure
 
 ```
-number-guessing-game/
-│── guessing_game.py   # Main source code
-│── README.md          # Documentation
+NumberGuessingGame/
+│── Number_Guessing.py   # Main source code
+│── README.md            # Documentation
 ```
 
 ## 🚀 Future Improvements
